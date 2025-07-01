@@ -35,8 +35,10 @@ echo "============>copy build"
 jekyll build --incremental 
 echo "============>jekyll build"
 
-#cp -r /e/note/image /e/note/myblog/_site/
-#echo "============>xcopy"
+
+rm -rf  /e/note/myblog/image
+cp -r /e/note/image /e/note/myblog/
+echo "============>xcopy"
 
 #cd _site
 #echo "============>cd _site"
