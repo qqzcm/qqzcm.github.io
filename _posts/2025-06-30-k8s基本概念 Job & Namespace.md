@@ -6,7 +6,7 @@ categories: [kubernetes]
 tags: [kubernetes]
 ---
 
-# k8s简单例子
+# k8s基本概念 Job & Namespace
 > 介绍k8s中的基础概念 Job 和 Namespace。
 
 <br>

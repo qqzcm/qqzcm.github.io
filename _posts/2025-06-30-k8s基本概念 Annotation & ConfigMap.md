@@ -6,7 +6,7 @@ categories: [kubernetes]
 tags: [kubernetes]
 ---
 
-# k8s简单例子
+# k8s基本概念 Annotation & ConfigMap
 > 介绍k8s中的基础概念 Annotation 和 ConfigMap。
 
 <br>
